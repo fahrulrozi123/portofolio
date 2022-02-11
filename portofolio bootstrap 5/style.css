@@ -1,0 +1,20 @@
+body{
+	min-height: 2000px;
+}
+.jumbotron{
+	padding-top: 6rem;
+	background-color: lightgray; 
+}
+#galery{
+	background-color: lightgray;
+}
+footer{
+	background-color: black;
+}
+section{
+	padding-top: 5rem;
+}
+.container img{
+	widows: 200px;
+	height: 25x;
+}
